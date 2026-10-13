@@ -87,7 +87,7 @@ Após o login, a página inicial exibirá a lista **Minhas Pesquisas**. Para rec
 !!! tip "Dica"
     Para atualizar os demais itens incluídos na pesquisa, basta repetir os procedimentos dos **Passos 11 e 12**.
 
-    # ANÁLISE E RELATÓRIOS
+# ANÁLISE E RELATÓRIOS
 
 ## Indicadores Estatísticos e Amostras
 
