@@ -159,7 +159,7 @@ Para armazenar a consulta e acessá-la posteriormente, clique no botão **Salvar
 
 ## Suporte e Atendimento
 
-Caso tenha dúvidas ou precise de suporte, a **Central de Atendimento do Ministério da Gestão e da Inovação em Serviços Públicos (MGI)** está disponível pelo Portal de Serviços ou pelo telefone **0800 978 9001**, de segunda a sexta-feira, das 8h às 18h.
+Caso tenha dúvidas ou precise de suporte, a **Central de Atendimento do Ministério da Gestão e da Inovação em Serviços Públicos (MGI)** está disponível pelo [Portal de Serviços](https://portaldeservicos.gestao.gov.br/) ou pelo telefone **0800 978 9001**, de segunda a sexta-feira, das 8h às 18h.
 
 <br>
 <div style="text-align: right; margin: 10px 0;">
