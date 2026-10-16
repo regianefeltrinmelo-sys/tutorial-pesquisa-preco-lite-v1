@@ -131,10 +131,12 @@ Na página de **Resumo**, é possível realizar as seguintes ações:
 ### 1. Relatório Resumido
 Gera um relatório condensado da pesquisa realizada em formato PDF. Para emitir, clique no botão **Resumido**.
 
-![Relatórios Resumido e Detalhado](Imagens/PPLite-6.png)
+![Relatório Resumido](Imagens/PPLite-6.png)
 
 ### 2. Relatório Detalhado
 Apresenta a média e a mediana dos últimos 12 meses, calculadas a partir das compras homologadas de todos os itens da consulta, além dos dados individuais detalhados de cada item. Para emitir, clique no botão **Detalhado**.
+
+![Relatório Detalhado](Imagens/PPLite-6B.png)
 
 ### 3. Exportação em CSV
 Caso prefira extrair os dados e salvá-los em formato editável na sua máquina, clique no botão **Exportar CSV** no canto superior direito.
