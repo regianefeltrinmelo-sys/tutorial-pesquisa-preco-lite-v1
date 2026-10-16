@@ -29,7 +29,7 @@
 
 ![Tela Inicial Nova Pesquisa](Imagens/PPLite-0.png)
 
-**Passo 06 (Recuperação):** Caso deseje recuperar pesquisas anteriores ou garantir que sua nova consulta fique salva, clique em **Entrar com GOV.BR** no canto superior direito e faça a autenticação com seu CPF e senha.
+**Passo 06:** Caso deseje recuperar pesquisas anteriores ou garantir que sua nova consulta fique salva, clique em **Entrar com GOV.BR** no canto superior direito e faça a autenticação com seu CPF e senha.
 
 ![Autenticação GOV.BR](Imagens/PPLite-1A.png)
 
