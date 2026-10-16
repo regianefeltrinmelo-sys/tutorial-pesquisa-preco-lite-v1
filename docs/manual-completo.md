@@ -21,7 +21,7 @@
 
 ![Menu Sistemas Compras.gov.br](Imagens/BB.png)
 
-**Passo 04:** Na página do Pesquisa de Preços, clique no botão **Pesquisa de Preços Lite**.
+**Passo 04:** Na página do Pesquisa de Preços, clique no botão **Acessar o Pesquisa de Preços LITE**.
 
 ![Botão Pesquisa de Preços Lite](Imagens/BB_1.png)
 
