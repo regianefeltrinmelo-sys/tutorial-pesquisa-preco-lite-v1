@@ -135,8 +135,7 @@ Gera um relatório condensado da pesquisa realizada em formato PDF.
 ![Relatórios Resumido e Detalhado](Imagens/PPLite-6.png)
 
 ### 2. Relatório Detalhado
-Apresenta a média e a mediana dos últimos 12 meses, calculadas a partir das compras homologadas de todos os itens da consulta, além dos dados individuais detalhados de cada item.
-* Para emitir, clique no botão **Detalhado**.
+Apresenta a média e a mediana dos últimos 12 meses, calculadas a partir das compras homologadas de todos os itens da consulta, além dos dados individuais detalhados de cada item. Para emitir, clique no botão **Detalhado**.
 
 ### 3. Exportação em CSV
 Caso prefira extrair os dados e salvá-los em formato editável na sua máquina, clique no botão **Exportar CSV** no canto superior direito.
