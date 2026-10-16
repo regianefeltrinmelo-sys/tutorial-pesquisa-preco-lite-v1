@@ -129,8 +129,7 @@ Ao expandir um registro, você tem acesso completo às informações da compra, 
 Na página de **Resumo**, é possível realizar as seguintes ações:
 
 ### 1. Relatório Resumido
-Gera um relatório condensado da pesquisa realizada em formato PDF.
-* Para emitir, clique no botão **Resumido**.
+Gera um relatório condensado da pesquisa realizada em formato PDF. Para emitir, clique no botão **Resumido**.
 
 ![Relatórios Resumido e Detalhado](Imagens/PPLite-6.png)
 
