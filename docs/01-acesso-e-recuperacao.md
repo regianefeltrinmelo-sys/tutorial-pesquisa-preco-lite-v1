@@ -33,6 +33,11 @@
 
 ![Autenticação GOV.BR](Imagens/PPLite-1A.png)
 
+!!! warning "Atenção"
+    
+    * Para que o Pesquisa de Preços Lite salve a consulta realizada é necessário fazer o login Gov.br.
+    
+
 Após o login, a página inicial exibirá a lista **Minhas Pesquisas**. Para recuperar uma consulta salva anteriormente e continuar a edição ou emitir relatórios, localize a pesquisa desejada e clique no ícone de **Abrir/Visualizar** (ou no título da pesquisa).
 
 ![Lista Minhas Pesquisas](Imagens/PPLite-1B.png)
