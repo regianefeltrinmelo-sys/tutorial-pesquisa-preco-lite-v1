@@ -11,7 +11,7 @@
 
 # ACESSO E RECUPERAÇÃO DE PESQUISAS
 
-**Passo 01:** Acesse o Portal de Compras do Governo Federal pelo link [https://www.compras.gov.br](https://www.compras.gov.br).
+**Passo 01:** Acesse o [Portal de Compras do Governo Federal](https://www.compras.gov.br).
 
 **Passo 02:** No canto superior esquerdo, localize o ícone com três linhas.
 
